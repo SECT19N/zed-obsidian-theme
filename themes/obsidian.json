@@ -242,7 +242,7 @@
             "font_weight": null
           },
           "function": {
-            "color": "#ededed",
+            "color": "#B477CF",
             "font_style": null,
             "font_weight": null
           },
@@ -282,7 +282,7 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#ededed",
+            "color": "#93C763",
             "font_style": null,
             "font_weight": null
           },
@@ -302,7 +302,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#ededed",
+            "color": "#678CB1",
             "font_style": null,
             "font_weight": null
           },
@@ -704,7 +704,7 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#171717",
+            "color": "#93C763",
             "font_style": null,
             "font_weight": null
           },
