@@ -1,0 +1,7 @@
+id = "obsidian-theme"
+name = "Obsidian Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["SECT19N"]
+description = "A Zed theme inspired by the Obsidian Theme from Notepad++ (Specifically Nickc01's VS Code version) and the Vercel Theme for Zed"
+repository = "https://github.com/SECT19N/zed-obsidian-theme"
