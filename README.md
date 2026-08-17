@@ -8,12 +8,10 @@ Includes **Obsidian Dark** and **Obsidian Light** variants with a signature gree
 
 ### Obsidian Dark
 
-<!-- Replace the placeholder below with your screenshot -->
 ![Obsidian Dark theme in Zed](assets/obsidian-dark.png)
 
 ### Obsidian Light
 
-<!-- Replace the placeholder below with your screenshot -->
 ![Obsidian Light theme in Zed](assets/obsidian-light.png)
 
 > **Adding screenshots:** Save your captures as `assets/obsidian-dark.png` and `assets/obsidian-light.png`. For best results, use a wide aspect ratio (e.g. 1920×1080) showing the editor with syntax highlighting, the sidebar, and the status bar.
